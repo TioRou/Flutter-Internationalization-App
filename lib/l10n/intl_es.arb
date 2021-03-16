@@ -1,0 +1,13 @@
+{
+  "@@locale": "es",
+  "simpleText": "Hola Mundo",
+  "textWithPlaceholder": "Bienvenido {name}",
+  "textWithPlaceholders": "Mi nombre es {lastName}, {firstName} {lastName}",
+  "@textWithPlaceholders": {
+    "placeholders":{
+      "firstName": {},
+      "lastName": {}
+    }
+  },
+  "textWithPlural": "{howmany, plural, one{Tienes 1 notificación} other{Tienes {howmany} notificaciones}}"
+}
